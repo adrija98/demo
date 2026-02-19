@@ -1,3 +1,5 @@
-title: Demo Site
-baseurl: "/demo" # Important for project repo
+title: Demo Site Tutorial
+baseurl: "/demo"       # Important for project pages
 url: "https://adrija98.github.io"
+markdown: kramdown
+highlighter: rouge

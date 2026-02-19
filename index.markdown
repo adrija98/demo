@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Home
+title: Welcome
+permalink: /index.html
 ---
 
-# Welcome
+# Welcome to My Demo Site
 
-Trying out Jekyll website with multi-page navigation.
+This site demonstrates **how to create a Jekyll website**, add pages, dark theme, and deploy it on GitHub Pages.
+
+Use the **Next button** to go step by step.
 
 <div class="nav-buttons">
-  <a href="{{ site.baseurl }}/page1.html" class="btn">Next →</a>
+  <a href="{{ site.baseurl }}/step1.html" class="btn">Next →</a>
 </div>
