@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 ---
+
+# Welcome
+
+Trying out Jekyll website with multi-page navigation.
+
+<div class="nav-buttons">
+  <a href="{{ site.baseurl }}/page1.html" class="btn">Next →</a>
+</div>
