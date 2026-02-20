@@ -4,7 +4,7 @@ title: Welcome
 permalink: /index.html
 ---
 
-# Welcome to My Demo Site
+# Welcome to My Website
 
 This site demonstrates **how to create a Jekyll website**, and deploy it on GitHub Pages.
 
