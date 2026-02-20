@@ -6,14 +6,14 @@ permalink: /step2.html
 
 # Step 2: Creating Jekyll Site
 
-Create a new site:
+### Create a new site:
 ```bash
 jekyll new demo_site
 cd demo_site
 ```
 ---
 
-Serve locaclly:
+### Serve locaclly:
 ```bash
 bundle exec jekyll serve
 ```

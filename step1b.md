@@ -12,8 +12,8 @@ Jekyll requires Ruby to run locally.
 [https://rubyinstaller.org/](https://rubyinstaller.org/)
 
 2. **Run the installer:**  
-   - Choose recommended settings  
-   - Check **“Add Ruby executables to your PATH”**
+   * Choose recommended settings  
+   * Check **“Add Ruby executables to your PATH”**
 
 3. **At the end of installation, the installer will show a prompt.**
 ```

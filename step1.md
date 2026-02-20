@@ -15,9 +15,7 @@ Before starting, install Git on your system.
 
 Once installed, verify installation:
 
-```bash
-git --version
-```
+<pre><code>git --version</code></pre>
 
 You should see the Git version number.
 
